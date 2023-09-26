@@ -20,3 +20,4 @@ html
 # MacOS
 .DS_Store
 
+venv
